@@ -6,7 +6,7 @@
 
 ## 📖 About Me
 
-I'm a curious soul on an extraordinary journey through the realms of technology and innovation. As a junior Electronics and Communication Engineering student at the University of Alexandria, I'm driven by the passion to create and explore the endless possibilities of the digital universe.
+I'm a curious soul on an extraordinary journey through the realms of technology and innovation. As an Electronics and Communication Engineering student at the University of Alexandria, I'm driven by the passion to create and explore the endless possibilities of the digital universe.
 
 ## ✨ Quests & Creations
 
