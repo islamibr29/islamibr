@@ -8,30 +8,9 @@
 
 I'm a curious soul on an extraordinary journey through the realms of technology and innovation. As a junior Electronics and Communication Engineering student at the University of Alexandria, I'm driven by the passion to create and explore the endless possibilities of the digital universe.
 
-## 🛠️ Technologies & Tools
-
-```plaintext
-💡 C/C++, Python
-🔌 Verilog
-⚙️ QuestaSim, Proteus, Altium
-🔬 Oscilloscope, Multimeter, Function Generator
-🎮 Arduino
-📝 LaTeX
-💻 Git, GitHub
-🪟 Windows, Linux
-🌐 HTML, CSS
-```
-## 🌱 Currently Cultivating
-I'm currently immersing myself in the wonders of digital circuit design with Verilog. With each line of code, I unlock new pathways to FPGA development and push the boundaries of innovation. Stay tuned for groundbreaking projects in this realm!
-
 ## ✨ Quests & Creations
 
 - [**College Materials**](https://github.com/islamibr/College/)
-
-## 🌟 Achievements Unlocked
-- Young Egyptian Influencer by Magazine 30.30
-- Global Nominee by NASA Space Apps
-- GCSE Top Achiever by the Ministry of Education
 
 ## 📝 [Writing on Medium](https://medium.com/@islamibr)
 I share my insights, knowledge, and experiences on Medium, covering topics related to electronics, programming, and innovation. Join me on this journey of learning and growth!
