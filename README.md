@@ -18,13 +18,6 @@ I share my insights, knowledge, and experiences on Medium, covering topics relat
 ## 💡 [BitWiz Tech Initiative](https://linktr.ee/bitwizofficial)
 As the founder of BitWiz, a tech initiative aimed at helping undergrads, I strive to empower students by providing them with resources, guidance, and opportunities in the ever-evolving world of technology. Together, we can shape the future!
 
-## 🌍 Let's Connect!
-<p align="left">
-<a href="https://linkedin.com/in/islamibr29/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" height="30" width="30" /></a>
- <a href="https://codeforces.com/profile/islamibr" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/zaldniLc2XTBhNlCDR4hcD5bcRYHZ56_lO0yA2Qu-cADShy1_HDWrICSvv0EPTX79WY=w240-h480-rw" height="40" width="40" /></a>
-<a href="https://leetcode.com/islamibr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/islamibr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
-</p>
 
 **⭐️ Dive into my repositories and witness the magic unfold!**
 
