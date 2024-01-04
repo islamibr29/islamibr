@@ -15,11 +15,11 @@ I'm a curious soul on an extraordinary journey through the realms of technology 
 ### Simulations
 
 ### HLDs (RTL)
-- 8x8 Bit Sequential Multiplier
+- [8x8 Bit Sequential Multiplier](https://github.com/islamibr/8x8_seq_mult)
 
 ### Programming
-- Robot Rental System
-- K-Map Calculator
+- [Robot Rental System](https://github.com/islamibr/robot_rental_system)
+- [K-Map Calculator](https://github.com/islamibr/k-map_calculator)
 
 
 
