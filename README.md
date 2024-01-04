@@ -10,6 +10,7 @@ I'm a curious soul on an extraordinary journey through the realms of technology 
 
 ## ✨ Quests & Creations
 - [College Materials](https://github.com/islamibr/College/)
+- [Today I Learned](https://github.com/islamibr/today_i_learned)
 
 ## 🏗️ My Projects
 ### Simulations
