@@ -9,8 +9,19 @@
 I'm a curious soul on an extraordinary journey through the realms of technology and innovation. As an Electronics and Communication Engineering student at the University of Alexandria, I'm driven by the passion to create and explore the endless possibilities of the universe.
 
 ## ✨ Quests & Creations
-
 - [**College Materials**](https://github.com/islamibr/College/)
+
+## 🏗️ My Projects
+### Simulations
+
+### HLDs (RTL)
+- 8x8 Bit Sequential Multiplier
+
+### Programming
+- Robot Rental System
+- K-Map Calculator
+
+
 
 ## 📝 [Writing on Medium](https://medium.com/@islamibr)
 I share my insights, knowledge, and experiences on Medium, covering topics related to electronics, programming, and innovation. Join me on this journey of learning and growth!
