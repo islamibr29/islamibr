@@ -14,6 +14,8 @@ I'm a curious soul on an extraordinary journey through the realms of technology 
 
 ## 🏗️ My Projects
 ### Simulations
+- [Smart Plant Care System with Auto Watering Refilling](https://www.tinkercad.com/things/gVrKAFyUruq-smartplantcaresystemwithautowateringrefilling)
+- [Smart Greenhouse Monitoring and Control System](https://www.tinkercad.com/things/esnvsztXcxI-smartgreenhousemonitoringandcontrolsystem)
 
 ### HLDs (RTL)
 - [8x8 Bit Sequential Multiplier](https://github.com/islamibr/8x8_seq_mult)
@@ -33,6 +35,7 @@ I'm a curious soul on an extraordinary journey through the realms of technology 
 - [MIM Capacitor and Magnetic Buzzer](https://github.com/islamibr/MIM_capacitor_and_magnetic_buzzer)
 - [Serial Data Receiver](https://github.com/islamibr/serial_data_receiver)
 - [4-bit Up Counter with Parallel Load](https://github.com/islamibr/4-bit_up_counter_with_parallel_load)
+- [AVOmeter/Multimeter](https://www.tinkercad.com/things/3uQqwDWqwkg-avometermultimeter)
 
 ## 📝 [Writing on Medium](https://medium.com/@islamibr)
 I share my insights, knowledge, and experiences on Medium, covering topics related to electronics, programming, and innovation. Join me on this journey of learning and growth!
