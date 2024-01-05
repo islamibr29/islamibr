@@ -14,8 +14,8 @@ I'm a curious soul on an extraordinary journey through the realms of technology 
 
 ## 🏗️ My Projects
 ### Simulations
-- [Smart Plant Care System with Auto Watering Refilling](https://www.tinkercad.com/things/gVrKAFyUruq-smartplantcaresystemwithautowateringrefilling)
-- [Smart Greenhouse Monitoring and Control System](https://www.tinkercad.com/things/esnvsztXcxI-smartgreenhousemonitoringandcontrolsystem)
+- [Smart Plant Care System](https://www.tinkercad.com/things/gVrKAFyUruq-smartplantcaresystemwithautowateringrefilling)
+- [Smart Greenhouse System](https://www.tinkercad.com/things/esnvsztXcxI-smartgreenhousemonitoringandcontrolsystem)
 
 ### HLDs (RTL)
 - [8x8 Bit Sequential Multiplier](https://github.com/islamibr/8x8_seq_mult)
