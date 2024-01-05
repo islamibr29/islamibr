@@ -22,7 +22,6 @@ I'm a curious soul on an extraordinary journey through the realms of technology 
 
 ### Programming
 - [Robot Rental System](https://github.com/islamibr/robot_rental_system)
-- [K-Map Calculator](https://github.com/islamibr/k-map_calculator)
 
 ## 🚩 Problem Solving
 - [Simulations](https://github.com/islamibr/simulations_problem_solving)
@@ -36,6 +35,7 @@ I'm a curious soul on an extraordinary journey through the realms of technology 
 - [Serial Data Receiver](https://github.com/islamibr/serial_data_receiver)
 - [4-bit Up Counter with Parallel Load](https://github.com/islamibr/4-bit_up_counter_with_parallel_load)
 - [AVOmeter/Multimeter](https://www.tinkercad.com/things/3uQqwDWqwkg-avometermultimeter)
+- [K-Map Calculator](https://github.com/islamibr/k-map_calculator)
 
 ## 📝 [Writing on Medium](https://medium.com/@islamibr)
 I share my insights, knowledge, and experiences on Medium, covering topics related to electronics, programming, and innovation. Join me on this journey of learning and growth!
