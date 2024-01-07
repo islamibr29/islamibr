@@ -60,8 +60,13 @@ I build ICs to accelerate AI technologies and try to use AI to enhance IC design
 - [K-Map Calculator](https://github.com/islamibr/k-map_calculator)
 - [Hex Keypad](https://github.com/islamibr/hex_keypad)
 
-## 📝 [Writing on Medium](https://medium.com/@islamibr)
-I share my insights, knowledge, and experiences on Medium, covering topics related to electronics, programming, and innovation. Join me on this journey of learning and growth!
+## 📝 Writing
+I share my insights, knowledge, and experiences, covering topics related to electronics, programming, and innovation. Join me on this journey of learning and growth!
+
+Explore my writings on different platforms:
+- [Medium Articles](https://medium.com/@islamibr)
+- [LinkedIn Posts](https://www.linkedin.com/in/islamibr29/)
+
 
 ## 💡 [BitWiz Tech Initiative](https://linktr.ee/bitwizofficial)
 As the founder of BitWiz, a tech initiative aimed at helping undergrads, I strive to empower students by providing them with resources, guidance, and opportunities in the ever-evolving world of technology. Together, we can shape the future!
