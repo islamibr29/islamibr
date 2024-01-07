@@ -15,13 +15,13 @@ I'm a curious soul on an extraordinary journey through the realms of technology 
 
 ### Programming and Scripting
 - Programming: C/C++, MATLAB, Python
-- Frameworks: Simulink, TensorFlow, NumPy
+- Frameworks: Simulink, TensorFlow, NumPy, OpenCV
 - Scripting: Shell, TCL, Perl, LaTeX
 
 ### Description and Implementation
 - HDLs (RTL): Verilog, VHDL, Verilog-A
 - FPGAs: Quartus, Vivado
-- Microcontrollers: AVR, ARM
+- Microcontrollers: AVR, ARM, RTOS
 
 ## ✨ Quests & Creations
 - [College Materials](https://github.com/islamibr/College/)
