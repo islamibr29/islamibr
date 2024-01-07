@@ -9,7 +9,7 @@
 ECE undergrad at Alexandria University, specializing in Microchips, Photonics, and Machine Learning, skilled in hardware and cutting-edge tech, with a strong foundation from coursework and hands-on experience, embracing interdisciplinary perspectives, eager for impactful opportunities, and open to collaboration.
 
 ### Interests and Motivations
-I build ICs to accelerate AI technologies and try to use AI to enhance IC design tools. 
+Engineering AI-accelerated ICs and optimizing design tools through AI integration, pushing the boundaries of semiconductor innovation.
 
 ## 🛠️ My Skill Set
 ### Simulation and Modeling
