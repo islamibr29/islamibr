@@ -12,7 +12,7 @@ I'm a curious soul on an extraordinary journey through the realms of technology 
 - Devices: Lumerical, CST, TCAD
 - Programming: C/C++, MATLAB, Python
 - Scripting: Shell, TCL, Perl
-- HDLs: Verilog, VHDL, Verilog-A
+- HDLs (RTL): Verilog, VHDL, Verilog-A
 - FPGAs: Quartus, Vivado
 - Microcontrollers: AVR, ARM
 
@@ -25,16 +25,16 @@ I'm a curious soul on an extraordinary journey through the realms of technology 
 - [Smart Plant Care System](https://www.tinkercad.com/things/gVrKAFyUruq-smartplantcaresystemwithautowateringrefilling)
 - [Smart Greenhouse System](https://www.tinkercad.com/things/esnvsztXcxI-smartgreenhousemonitoringandcontrolsystem)
 
+### Programming
+- [Robot Rental System](https://github.com/islamibr/robot_rental_system)
+  
 ### HLDs (RTL)
 - [8x8 Bit Sequential Multiplier](https://github.com/islamibr/8x8_seq_mult)
 
-### Programming
-- [Robot Rental System](https://github.com/islamibr/robot_rental_system)
-
 ## 🚩 Problem Solving
 - [Simulations](https://github.com/islamibr/simulations_problem_solving)
-- [HLDs (RTL)](https://github.com/islamibr/hdl_problem_solving)
 - [Programming](https://github.com/islamibr/programming_problem_solving)
+- [HLDs (RTL)](https://github.com/islamibr/hdl_problem_solving)
 
 ## 🎓 College Works
 - [Today I Reported](https://github.com/islamibr/today_i_reported)
