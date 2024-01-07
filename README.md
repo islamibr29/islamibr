@@ -5,7 +5,11 @@
 </div>
 
 ## 📖 About Me
-I'm a curious soul on an extraordinary journey through the realms of technology and innovation. As an Electronics and Communication Engineering student at the University of Alexandria, I'm driven by the passion to create and explore the endless possibilities of the universe.
+### Summary and Profile
+ECE undergrad at Alexandria University, specializing in Microchips, Photonics, and Machine Learning, skilled in hardware and cutting-edge tech, with a strong foundation from coursework and hands-on experience, embracing interdisciplinary perspectives, eager for impactful opportunities, and open to collaboration.
+
+### Interests and Motivations
+I build ICs to accelerate AI technologies and try to use AI to enhance IC design tools. 
 
 ## 🛠️ My Skill Set
 ### Simulation and Modeling
