@@ -45,6 +45,7 @@ I'm a curious soul on an extraordinary journey through the realms of technology 
 
 ## 🎓 College Works
 - [Today I Reported](https://github.com/islamibr/today_i_reported)
+- [FinFET Chronicles](https://vixra.org/abs/2401.0029)
 - [MIM Capacitor and Magnetic Buzzer](https://github.com/islamibr/MIM_capacitor_and_magnetic_buzzer)
 - [Serial Data Receiver](https://github.com/islamibr/serial_data_receiver)
 - [4-bit Up Counter with Parallel Load](https://github.com/islamibr/4-bit_up_counter_with_parallel_load)
