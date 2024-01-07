@@ -62,8 +62,6 @@ I build ICs to accelerate AI technologies and try to use AI to enhance IC design
 
 ## 📝 Writing
 I share my insights, knowledge, and experiences, covering topics related to electronics, programming, and innovation. Join me on this journey of learning and growth!
-
-Explore my writings on different platforms:
 - [Medium Articles](https://medium.com/@islamibr)
 - [LinkedIn Posts](https://www.linkedin.com/in/islamibr29/)
 
