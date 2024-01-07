@@ -37,13 +37,13 @@ I'm a curious soul on an extraordinary journey through the realms of technology 
 - [Programming](https://github.com/islamibr/programming_problem_solving)
 
 ## 🎓 College Works
-- [Hex Keypad](https://github.com/islamibr/hex_keypad)
 - [Today I Reported](https://github.com/islamibr/today_i_reported)
 - [MIM Capacitor and Magnetic Buzzer](https://github.com/islamibr/MIM_capacitor_and_magnetic_buzzer)
 - [Serial Data Receiver](https://github.com/islamibr/serial_data_receiver)
 - [4-bit Up Counter with Parallel Load](https://github.com/islamibr/4-bit_up_counter_with_parallel_load)
 - [AVOmeter/Multimeter](https://www.tinkercad.com/things/3uQqwDWqwkg-avometermultimeter)
 - [K-Map Calculator](https://github.com/islamibr/k-map_calculator)
+- [Hex Keypad](https://github.com/islamibr/hex_keypad)
 
 ## 📝 [Writing on Medium](https://medium.com/@islamibr)
 I share my insights, knowledge, and experiences on Medium, covering topics related to electronics, programming, and innovation. Join me on this journey of learning and growth!
