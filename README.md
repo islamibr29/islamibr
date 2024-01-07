@@ -5,8 +5,16 @@
 </div>
 
 ## 📖 About Me
-
 I'm a curious soul on an extraordinary journey through the realms of technology and innovation. As an Electronics and Communication Engineering student at the University of Alexandria, I'm driven by the passion to create and explore the endless possibilities of the universe.
+
+## 🛠️ My Skill Set
+- Circuits: Virtuoso, Tanner, PrimeSim
+- Devices: Lumerical, CST, TCAD
+- Programming: C/C++, MATLAB, Python
+- Scripting: Shell, TCL, Perl
+- HDLs: Verilog, VHDL, Verilog-A
+- FPGAs: Quartus, Vivado
+- Microcontrollers: AVR, ARM
 
 ## ✨ Quests & Creations
 - [College Materials](https://github.com/islamibr/College/)
