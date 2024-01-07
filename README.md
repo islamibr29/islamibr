@@ -27,6 +27,9 @@ I'm a curious soul on an extraordinary journey through the realms of technology 
 - [College Materials](https://github.com/islamibr/College/)
 - [Today I Learned](https://github.com/islamibr/today_i_learned)
 
+## 📄 My Publications
+⏳ Loading... ⏳
+
 ## 🏗️ My Projects
 ### Simulation
 - [Smart Plant Care System](https://www.tinkercad.com/things/gVrKAFyUruq-smartplantcaresystemwithautowateringrefilling)
