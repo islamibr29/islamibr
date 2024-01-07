@@ -8,10 +8,17 @@
 I'm a curious soul on an extraordinary journey through the realms of technology and innovation. As an Electronics and Communication Engineering student at the University of Alexandria, I'm driven by the passion to create and explore the endless possibilities of the universe.
 
 ## 🛠️ My Skill Set
+### Simulations and Modeling
 - Circuits: Virtuoso, Tanner, PrimeSim
 - Devices: Lumerical, CST, TCAD
+- PCBs: Altuim, Proteus, Allegro
+
+### Programming and Scripting
 - Programming: C/C++, MATLAB, Python
-- Scripting: Shell, TCL, Perl
+- Frameworks: Simulink, Tensorflow, NumPy
+- Scripting: Shell, TCL, Perl, LaTeX
+
+### Description and Implementation
 - HDLs (RTL): Verilog, VHDL, Verilog-A
 - FPGAs: Quartus, Vivado
 - Microcontrollers: AVR, ARM
