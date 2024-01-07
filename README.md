@@ -60,7 +60,7 @@ I build ICs to accelerate AI technologies and try to use AI to enhance IC design
 - [K-Map Calculator](https://github.com/islamibr/k-map_calculator)
 - [Hex Keypad](https://github.com/islamibr/hex_keypad)
 
-## 📝 Writing
+## 📝 My Writings
 I share my insights, knowledge, and experiences, covering topics related to electronics, programming, and innovation. Join me on this journey of learning and growth!
 - [Medium Articles](https://medium.com/@islamibr)
 - [LinkedIn Articles](https://www.linkedin.com/in/islamibr29/)
