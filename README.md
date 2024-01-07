@@ -8,7 +8,7 @@
 I'm a curious soul on an extraordinary journey through the realms of technology and innovation. As an Electronics and Communication Engineering student at the University of Alexandria, I'm driven by the passion to create and explore the endless possibilities of the universe.
 
 ## 🛠️ My Skill Set
-### Simulations and Modeling
+### Simulation and Modeling
 - Circuits: Virtuoso, Tanner, PrimeSim
 - Devices: Lumerical, CST, TCAD
 - PCBs: Altuim, Proteus, Allegro
@@ -28,7 +28,7 @@ I'm a curious soul on an extraordinary journey through the realms of technology 
 - [Today I Learned](https://github.com/islamibr/today_i_learned)
 
 ## 🏗️ My Projects
-### Simulations
+### Simulation
 - [Smart Plant Care System](https://www.tinkercad.com/things/gVrKAFyUruq-smartplantcaresystemwithautowateringrefilling)
 - [Smart Greenhouse System](https://www.tinkercad.com/things/esnvsztXcxI-smartgreenhousemonitoringandcontrolsystem)
 
@@ -39,7 +39,7 @@ I'm a curious soul on an extraordinary journey through the realms of technology 
 - [8x8 Bit Sequential Multiplier](https://github.com/islamibr/8x8_seq_mult)
 
 ## 🚩 Problem Solving
-- [Simulations](https://github.com/islamibr/simulations_problem_solving)
+- [Simulation](https://github.com/islamibr/simulations_problem_solving)
 - [Programming](https://github.com/islamibr/programming_problem_solving)
 - [HLDs (RTL)](https://github.com/islamibr/hdl_problem_solving)
 
