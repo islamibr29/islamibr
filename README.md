@@ -15,7 +15,7 @@ I'm a curious soul on an extraordinary journey through the realms of technology 
 
 ### Programming and Scripting
 - Programming: C/C++, MATLAB, Python
-- Frameworks: Simulink, Tensorflow, NumPy
+- Frameworks: Simulink, TensorFlow, NumPy
 - Scripting: Shell, TCL, Perl, LaTeX
 
 ### Description and Implementation
