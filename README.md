@@ -14,7 +14,7 @@ I'm a curious soul on an extraordinary journey through the realms of technology 
 - PCBs: Altuim, Proteus, Allegro
 
 ### Programming and Scripting
-- Programming: C/C++, MATLAB, Python
+- Programming: C/C++, MATLAB, Python, SQL
 - Frameworks: Simulink, TensorFlow, NumPy, OpenCV
 - Scripting: Shell, TCL, Perl, LaTeX
 
