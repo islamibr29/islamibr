@@ -75,7 +75,7 @@ I share my insights, knowledge, and experiences, covering topics related to elec
 ## 💡 [BitWiz Tech Initiative](https://linktr.ee/bitwizofficial)
 As the founder of BitWiz, a tech initiative aimed at helping undergrads, I strive to empower students by providing them with resources, guidance, and opportunities in the ever-evolving world of technology. Together, we can shape the future!
 
-## 📞 Contact Details:
+## 📞 Contact Details
 - Phone: +20 1204609271
 - E-mail: es-eslam.ibrahim2026@alexu.edu.eg
 
