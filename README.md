@@ -11,6 +11,12 @@ ECE undergrad at Alexandria University, specializing in Microchips, Photonics, a
 ### Interests and Motivations
 Engineering AI-accelerated ICs and optimizing design tools through AI integration, pushing the boundaries of semiconductor innovation.
 
+## 🏆Recognitions and Accomplishments: 
+- ICT Competition National Finalist by Huawei ICT Academy
+- Young Egyptian Influencer by Magazine, 30.30
+- Global Nominee by Nasa Space Apps Challenge
+- GSEC Top Achiever by Egyptian Ministry of Education 
+
 ## 🛠️ My Skill Set
 ### Simulation and Modeling
 - Circuits: Virtuoso, Tanner, PrimeSim
@@ -69,6 +75,9 @@ I share my insights, knowledge, and experiences, covering topics related to elec
 ## 💡 [BitWiz Tech Initiative](https://linktr.ee/bitwizofficial)
 As the founder of BitWiz, a tech initiative aimed at helping undergrads, I strive to empower students by providing them with resources, guidance, and opportunities in the ever-evolving world of technology. Together, we can shape the future!
 
+## 📞 Contact Details:
+- Phone: +20 1204609271
+- E-mail: es-eslam.ibrahim2026@alexu.edu.eg
 
 **⭐️ Dive into my repositories and witness the magic unfold!**
 
