@@ -11,7 +11,7 @@ ECE undergrad at Alexandria University, specializing in Microchips, Photonics, a
 ### Interests and Motivations
 Engineering AI-accelerated ICs and optimizing design tools through AI integration, pushing the boundaries of semiconductor innovation.
 
-## 🏆Recognitions and Accomplishments: 
+### Recognitions and Accomplishments: 
 - ICT Competition National Finalist by Huawei ICT Academy
 - Young Egyptian Influencer by Magazine, 30.30
 - Global Nominee by Nasa Space Apps Challenge
