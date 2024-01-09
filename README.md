@@ -30,7 +30,7 @@ Engineering AI-accelerated ICs and optimizing design tools through AI integratio
 
 ### Description and Implementation
 - HDLs (RTL): Verilog, VHDL, Verilog-A
-- FPGAs: Synthesis (Quartus, Vivado), Simulation (QuestaSim, ModelSim)
+- FPGAs: Quartus, Vivado
 - Microcontrollers: AVR, ARM, RTOS
 
 ## ✨ Quests & Creations
