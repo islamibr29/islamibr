@@ -19,7 +19,7 @@ Engineering AI-accelerated ICs and optimizing design tools through AI integratio
 
 ## 🛠️ My Skill Set
 ### Simulation and Modeling
-- Circuits: Virtuoso, Tanner, PrimeSim
+- Circuits: Virtuoso, Tanner EDA, Synopsys EDA
 - Devices: Lumerical, CST, TCAD
 - PCBs: Altuim, Proteus, Allegro
 
@@ -30,7 +30,7 @@ Engineering AI-accelerated ICs and optimizing design tools through AI integratio
 
 ### Description and Implementation
 - HDLs (RTL): Verilog, VHDL, Verilog-A
-- FPGAs: Quartus, Vivado
+- FPGAs: Synthesis (Quartus, Vivado), Simulation (QuestaSim, ModelSim)
 - Microcontrollers: AVR, ARM, RTOS
 
 ## ✨ Quests & Creations
