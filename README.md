@@ -19,7 +19,7 @@ Engineering AI-accelerated ICs and optimizing design tools through AI integratio
 
 ## 🛠️ My Skill Set
 ### Simulation and Modeling
-- Circuits: Virtuoso, Tanner EDA, Synopsys EDA
+- Circuits: Virtuoso, Tanner, PrimeSim
 - Devices: Lumerical, CST, TCAD
 - PCBs: Altuim, Proteus, Allegro
 
