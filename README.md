@@ -12,16 +12,17 @@ ECE undergrad at Alexandria University, specializing in Microchips, Photonics, a
 Engineering AI-accelerated ICs and optimizing design tools through AI integration, pushing the boundaries of semiconductor innovation.
 
 ### Recognitions and Accomplishments
-- ICT Competition National Finalist by Huawei ICT Academy
-- Young Egyptian Influencer by Magazine, 30.30
-- Global Nominee by Nasa Space Apps Challenge
-- GSEC Top Achiever by Egyptian Ministry of Education 
+- ICT Competition National Finalist
+- Young Egyptian Influencer
+- Nasa Global Nominee 
+- GSEC Top Achiever
 
 ## 🛠️ My Skill Set
 ### Simulation and Modeling
 - Circuits: Virtuoso, Tanner, PrimeSim
 - Devices: Lumerical, CST, TCAD
 - PCBs: Altuim, Proteus, Allegro
+- ASICs: Synopsys Tools, QuestaSim, ModelSim
 
 ### Programming and Scripting
 - Programming: C/C++, MATLAB, Python, SQL
@@ -29,9 +30,10 @@ Engineering AI-accelerated ICs and optimizing design tools through AI integratio
 - Scripting: Shell, TCL, Perl, LaTeX
 
 ### Description and Implementation
-- HDLs (RTL): Verilog, VHDL, Verilog-A
+- HDLs (RTL): VHDL, Verilog, Verilog-A, SystemVerilog
 - FPGAs: Quartus, Vivado
 - Microcontrollers: AVR, ARM, RTOS
+- Verification: UVM
 
 ## ✨ Quests & Creations
 - [College Materials](https://github.com/islamibr/College/)
