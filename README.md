@@ -83,7 +83,7 @@ As the founder of BitWiz, a tech initiative aimed at helping undergrads, I striv
 
 **⭐️ Dive into my repositories and witness the magic unfold!**
 
-### <p align="center">Visitor counter<p>
+### <p align="center">Visitor Counter<p>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/islamibr/count.svg" />
 </p>
