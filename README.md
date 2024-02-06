@@ -9,7 +9,7 @@
 ECE undergrad at Alexandria University, specializing in Microchips, Photonics, and Machine Learning, skilled in hardware and cutting-edge tech, with a strong foundation from coursework and hands-on experience, embracing interdisciplinary perspectives, eager for impactful opportunities, and open to collaboration.
 
 ### Interests and Motivations
-Engineering AI-accelerated ICs and optimizing design tools through AI integration, pushing the boundaries of semiconductor innovation.
+Engineering AI-age ICs and optimizing both design flow and hardware applications through AI integration, pushing the boundaries of semiconductor innovation.
 
 ### Recognitions and Accomplishments
 - ICT Competition'23 National Finalist by Huawei Academy
