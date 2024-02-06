@@ -12,28 +12,33 @@ ECE undergrad at Alexandria University, specializing in Microchips, Photonics, a
 Engineering AI-accelerated ICs and optimizing design tools through AI integration, pushing the boundaries of semiconductor innovation.
 
 ### Recognitions and Accomplishments
-- ICT Competition National Finalist
-- Young Egyptian Influencer
-- Nasa Global Nominee 
-- GSEC Top Achiever
+- ICT Competition'23 National Finalist by Huawei Academy
+- Young Egyptian Influencer'23 by Magazine, 30.30
+- Global Nominee'21 by Nasa Space Apps Challenge
+- GSEC'21 Top Achiever by Egyptian Ministry of Education
+- BASEF'19 Prefinalist by Bibliotheca Alexandria
 
 ## 🛠️ My Skill Set
+Using various tools as applications needed; believing that fast learners prevail.
+
 ### Simulation and Modeling
-- Circuits: Virtuoso, Tanner, PrimeSim
-- Devices: Lumerical, CST, TCAD
-- PCBs: Altuim, Proteus, Allegro
-- ASICs: Synopsys Tools, QuestaSim, ModelSim
+- Custom: Virtuoso, Synopsys CDP, Tanner, ADS
+- Device: TCAD, CST, Lumerical, COMSOL
+- PCB: Allegro, Altuim, Proteus
+- Digital: Questa, Synopsys DDP
 
 ### Programming and Scripting
-- Programming: C/C++, MATLAB, Python, SQL
-- Frameworks: Simulink, TensorFlow, NumPy, OpenCV
+- Programming: C/C++, Python, MATLAB, SQL
+- Framework: Simulink, TensorFlow, Keras
 - Scripting: Shell, TCL, Perl, LaTeX
+- Graphical: LabVIEW
 
 ### Description and Implementation
-- HDLs (RTL): VHDL, Verilog, Verilog-A, SystemVerilog
-- FPGAs: Quartus, Vivado
-- Microcontrollers: AVR, ARM, RTOS
-- Verification: UVM
+- HDL: VHDL, Verilog, Verilog-A, SystemVerilog
+- FPGA: Vivado, Quartus
+- Verification: UVM, LVS, DRC
+- Microcontroller: AVR, ARM, RTOS
+- Equipment: Multimeter, Oscilloscope, NA, SA, FG
 
 ## ✨ Quests & Creations
 - [College Materials](https://github.com/islamibr/College/)
