@@ -29,9 +29,9 @@ Using various tools as applications needed; believing that fast learners prevail
 
 ### Programming and Scripting
 - Programming: C/C++, Python, MATLAB, SQL
-- Framework: Simulink, TensorFlow, Keras
-- Scripting: Shell, TCL, Perl, LaTeX
-- Graphical: LabVIEW
+- Framework: TensorFlow, Keras
+- Scripting: Shell, Vim, TCL, LaTeX
+- Visual: Simulink, LabVIEW
 
 ### Description and Implementation
 - HDL: VHDL, Verilog, Verilog-A, SystemVerilog
