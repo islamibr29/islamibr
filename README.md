@@ -38,7 +38,7 @@ Using various tools as applications needed; believing that fast learners prevail
 - FPGA: Vivado, Quartus
 - Verification: UVM, LVS, DRC
 - Firmware: AVR, ARM, RTOS, Assembly
-- Equipment: Multimeter, Oscilloscope, NA, SA, FG
+- Equipment: Multimeter, Oscilloscope, Network Analyzer, Spectrum Analyzer, Function Generator
 
 ## ✨ Quests & Creations
 - [College Materials](https://github.com/islamibr/College/)
