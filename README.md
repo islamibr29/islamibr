@@ -22,10 +22,10 @@ Doing Entrepreneurship and R&D in Deep-tech, particularly Engineering AI-age ICs
 Using various tools as applications needed; believing that fast learners prevail.
 
 ### Simulation and Modeling
-- Custom: Virtuoso, Synopsys CDP, Tanner, ADS
+- Custom: Virtuoso, Synopsys Custom Platform, Tanner, ADS
 - Device: TCAD, CST, Lumerical, COMSOL
 - PCB: Allegro, Altuim, Proteus
-- Digital: Questa, Synopsys DDP
+- Digital: Questa, Synopsys Digital Platform
 
 ### Programming and Scripting
 - Programming: C/C++, Python, MATLAB, SQL
