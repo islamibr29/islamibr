@@ -9,7 +9,7 @@
 ECE undergrad at Alexandria University, specializing in Microchips, Photonics, and Machine Learning, skilled in hardware and cutting-edge tech, with a strong foundation from coursework and hands-on experience, embracing interdisciplinary perspectives, eager for impactful opportunities, and open to collaboration.
 
 ### Interests and Motivations
-Engineering AI-age ICs and optimizing both design flow and hardware applications through AI integration, pushing the boundaries of semiconductor innovation.
+Doing Entrepreneurship and R&D in Deep-tech, particularly Engineering AI-age ICs and optimizing both design flow and hardware applications through AI integration, pushing the boundaries of innovation.
 
 ### Recognitions and Accomplishments
 - ICT Competition'23 National Finalist by Huawei Academy
@@ -37,7 +37,7 @@ Using various tools as applications needed; believing that fast learners prevail
 - HDL: VHDL, Verilog, Verilog-A, SystemVerilog
 - FPGA: Vivado, Quartus
 - Verification: UVM, LVS, DRC
-- Microcontroller: AVR, ARM, RTOS
+- Firmware: AVR, ARM, RTOS, Assembly
 - Equipment: Multimeter, Oscilloscope, NA, SA, FG
 
 ## ✨ Quests & Creations
