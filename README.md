@@ -18,28 +18,6 @@ Doing Entrepreneurship and R&D in Deep-tech, particularly Engineering AI-age ICs
 - GSEC'21 Top Achiever by Egyptian Ministry of Education
 - BASEF'19 Prefinalist by Bibliotheca Alexandria
 
-## 🛠️ My Skill Set
-Using various tools as applications needed; believing that fast learners prevail.
-
-### Simulation and Modeling
-- Custom: Virtuoso, Synopsys Custom Platform, Tanner, ADS
-- Device: TCAD, CST, Lumerical, COMSOL
-- PCB: Allegro, Altuim, Proteus
-- Digital: Questa, Synopsys Digital Platform
-
-### Programming and Scripting
-- Programming: C/C++, Python, MATLAB, SQL
-- Framework: TensorFlow, PyTorch
-- Scripting: Shell, Vim, TCL, LaTeX
-- Visual: Simulink, LabVIEW
-
-### Description and Implementation
-- HDL: VHDL, Verilog, Verilog-A, SystemVerilog
-- FPGA: Vivado, Quartus
-- Verification: UVM, LVS, DRC
-- Firmware: AVR, ARM, RTOS, Assembly
-- Equipment: Multimeter, Oscilloscope, Network Analyzer, Spectrum Analyzer, Function Generator
-
 ## ✨ Quests & Creations
 - [College Materials](https://github.com/islamibr/College/)
 - [Today I Learned](https://github.com/islamibr/today_i_learned)
